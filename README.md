@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Marco Antonio!
 
-<!--
-**marcoantonio-devx/marcoantonio-devx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🙋‍♂️ Sobre mim
+ -🎓 Cursando Engenharia da Computação na Anhanguera
+ 
+ -👨‍💻 Atualmente estudando Python e MySQL
+ 
+ -🎯 Procuro aprender e desenvolver habilidades na área de tecnologia
+ 
+ -🤔 Curiosidade: Quando me interesso por um assunto, busco dominá-lo por completo!
 
-Here are some ideas to get you started:
+ ### Linguagens e Ferramentas
+   <p align="left">
+  <img src="https://skillicons.dev/icons?i=py,mysql,vscode" alt="Python, MySQL e VSCode" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas do meu GitHub
+  <div>
+      <a href="https://github.com/marcoantonio-devx">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcoantonio-devx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoantonio-devx&layout=compact&langs_count-16&theme=dracula"/>
+  </div>
+
+  ### Como me encontrar
+  📧 **E-mail:** marcoantoniodutra2007@gmail.com
+  
