@@ -23,4 +23,5 @@
 
   ### Como me encontrar
   📧 **E-mail:** marcoantoniodutra2007@gmail.com
+  🌐 **linkedin:** www.linkedin.com/in/marcoantonioprofile
   
