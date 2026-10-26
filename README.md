@@ -3,7 +3,7 @@
 ### 🙋‍♂️ Sobre mim
  -🎓 Cursando Engenharia da Computação na Anhanguera
  
- -👨‍💻 Atualmente estudando Python e MySQL
+ -👨‍💻 Atualmente estudando Python e SQL
  
  -🎯 Procuro aprender e desenvolver habilidades na área de tecnologia
  
